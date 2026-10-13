@@ -1,0 +1,45 @@
+# Benedetto Oliva — Siti web e gestionali a Benevento
+
+> Benedetto Oliva è un ragazzo di Benevento che studia Ingegneria Informatica al Politecnico di Milano. Progetta e realizza siti vetrina, negozi online, gestionali su misura e moduli di iscrizione a eventi, e prepara i siti per essere trovati su Google e dalle intelligenze artificiali. Lavora con attività, associazioni ed enti di formazione di Benevento e provincia, di persona o in videochiamata.
+
+## Servizi
+
+- **Sito vetrina**: Chi sei, cosa offri, orari e come trovarti. Veloce, perfetto sul telefono e pensato per farsi trovare su Google e Maps.
+- **Negozio online e gift card**: Catalogo con ricerca e filtri, schede prodotto, buoni regalo digitali da inviare per email. Il negozio resta aperto anche di notte.
+- **Gestionale su misura**: Prodotti, prezzi, orari delle feste e richieste dei clienti in un pannello semplice, con accessi protetti e permessi per chi lavora con te.
+- **Iscrizioni a eventi e corsi**: Moduli online a passaggi, email di conferma, area riservata con l’elenco degli iscritti da scaricare. Si aggiungono anche al sito che hai già.
+- **Email e newsletter**: Comunicazioni ai tuoi contatti con invii programmati e statistiche di apertura. Iscrizioni con consenso per argomento, come chiede il GDPR.
+- **Pagine per associazioni**: Calendario degli eventi, mappa delle attività e una scheda per ogni socio: una strada o un quartiere raccontati in un unico posto.
+- **Automazioni dal telefono**: Bot Telegram per inserire prodotti, ricevere avvisi o controllare le richieste senza aprire il computer.
+- **Sistemo il sito che hai**: Lento, scomodo sul telefono, con testi vecchi o pagine rotte? Lo analizzo e ti propongo interventi mirati, senza rifare tutto.
+- **Visibilità su Google e sulle intelligenze artificiali**: dati strutturati (schema.org), testi che rispondono alle domande vere dei clienti, scheda Google allineata al sito, recensioni in vista, sito veloce e aperto ai motori delle AI.
+
+## Lavori
+
+- **Gioielleria Babuscio** (Corso Garibaldi, Benevento — gioiellieri dal 1925; sito in arrivo online): progetto, design e sviluppo di sito, negozio online, gift card digitali, gestionale privato con accesso tramite passkey, bot Telegram per inserire articoli dal telefono, orari delle festività gestiti dal gestionale, newsletter con consensi.
+
+## Formazione e competenze
+
+- Ingegneria Informatica, Politecnico di Milano (dal 2023); Erasmus all'Universidad de Oviedo, Spagna (2025/2026); Liceo Scientifico G. Rummo, Benevento.
+- Progetti d'esame valutati 30 e lode (gioco client-server in Java, risolutore SAT in C) e 30/30 (circuito in VHDL).
+- Linguaggi e strumenti: HTML, CSS, JavaScript, PHP, MySQL, Python, Java, C, Git, bot Telegram, privacy e GDPR, SEO locale.
+- Lingue: italiano, inglese, spagnolo (certificazione DELE).
+
+## Domande frequenti
+
+- **Quanto costa un sito?** Dipende da cosa ti serve: una vetrina è molto diversa da un negozio con gestionale. Dopo il primo incontro ricevi un preventivo diviso per fasi, così sai esattamente cosa paghi e puoi partire anche solo dalla prima.
+- **Ho già un sito: devo rifarlo da capo?** Non per forza. Posso migliorare quello che hai o aggiungere solo ciò che manca, per esempio un modulo di iscrizione a un evento dentro un sito esistente.
+- **Non sono pratico di computer. Riuscirò a gestirlo?** Sì: i gestionali li disegno pensando a chi li userà, con pochi pulsanti chiari e funzioni pensate anche per il telefono. E per qualsiasi dubbio mi scrivi.
+- **I dati dei miei clienti sono al sicuro?** La sicurezza è un requisito dal primo giorno, non un controllo finale: accessi protetti, permessi per chi lavora con te, nessuna password o dato di pagamento dove non deve stare, consensi privacy in ordine.
+- **Mi troveranno anche su ChatGPT e Gemini?** Nessuno può garantirlo, ma si può fare molto: dati strutturati, testi che rispondono alle domande dei clienti, scheda Google aggiornata e recensioni in vista. Sono le stesse informazioni che le intelligenze artificiali leggono per rispondere.
+- **Lavori solo a Benevento?** Benevento e provincia sono casa mia e preferisco conoscere le persone con cui lavoro. Per il resto ci si sente in videochiamata e per email, ovunque tu sia.
+
+## Contatti
+
+- Email: benedetto.oliva@mail.polimi.it
+- Modulo di contatto: https://bennoolivaa.github.io/#contatti
+
+## Pagine
+
+- [Portfolio](https://bennoolivaa.github.io/)
+- [Informativa privacy](https://bennoolivaa.github.io/privacy.html)
