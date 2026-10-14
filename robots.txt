@@ -17,4 +17,4 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
-Sitemap: https://bennoolivaa.github.io/sitemap.xml
+Sitemap: https://benedettooliva.it/sitemap.xml
