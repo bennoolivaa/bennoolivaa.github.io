@@ -12,7 +12,7 @@
 - **Pagine per associazioni**: Calendario degli eventi, mappa delle attività e una scheda per ogni socio: una strada o un quartiere raccontati in un unico posto.
 - **Automazioni dal telefono**: Bot Telegram per inserire prodotti, ricevere avvisi o controllare le richieste senza aprire il computer.
 - **Sistemo il sito che hai**: Lento, scomodo sul telefono, con testi vecchi o pagine rotte? Lo analizzo e ti propongo interventi mirati, senza rifare tutto.
-- **Visibilità su Google e sulle intelligenze artificiali**: dati strutturati (schema.org), testi che rispondono alle domande vere dei clienti, scheda Google allineata al sito, recensioni in vista, sito veloce e aperto ai motori delle AI.
+- **Visibilità su Google e sulle intelligenze artificiali**: Dati strutturati (schema.org), testi che rispondono alle domande vere dei clienti, scheda Google allineata al sito, recensioni in vista, sito veloce e aperto ai motori delle AI.
 
 ## Lavori
 
@@ -20,7 +20,7 @@
 
 ## Formazione e competenze
 
-- Ingegneria Informatica, Politecnico di Milano (dal 2023); Erasmus all'Universidad de Oviedo, Spagna (2025/2026); Liceo Scientifico G. Rummo, Benevento.
+- Ingegneria Informatica, Politecnico di Milano (dal 2023); un semestre in Erasmus all'Universidad de Oviedo, Spagna (anno accademico 2025/2026); Liceo Scientifico G. Rummo, Benevento.
 - Progetti d'esame valutati 30 e lode (gioco client-server in Java, risolutore SAT in C) e 30/30 (circuito in VHDL).
 - Linguaggi e strumenti: HTML, CSS, JavaScript, PHP, MySQL, Python, Java, C, Git, bot Telegram, privacy e GDPR, SEO locale.
 - Lingue: italiano, inglese, spagnolo (certificazione DELE).
@@ -32,6 +32,13 @@
 - **Non sono pratico di computer. Riuscirò a gestirlo?** Sì: i gestionali li disegno pensando a chi li userà, con pochi pulsanti chiari e funzioni pensate anche per il telefono. E per qualsiasi dubbio mi scrivi.
 - **I dati dei miei clienti sono al sicuro?** La sicurezza è un requisito dal primo giorno, non un controllo finale: accessi protetti, permessi per chi lavora con te, nessuna password o dato di pagamento dove non deve stare, consensi privacy in ordine.
 - **Mi troveranno anche su ChatGPT e Gemini?** Nessuno può garantirlo, ma si può fare molto: dati strutturati, testi che rispondono alle domande dei clienti, scheda Google aggiornata e recensioni in vista. Sono le stesse informazioni che le intelligenze artificiali leggono per rispondere.
+- **Posso vedere qualcosa prima di decidere?** Sì: dopo il primo incontro ti preparo un’anteprima online da aprire sul telefono e mostrare a chi vuoi, prima di qualsiasi impegno.
+- **Quanto tempo serve per avere il sito online?** Dipende da cosa ti serve: una vetrina richiede molto meno di un negozio con gestionale. Dopo il primo incontro ricevi le fasi del lavoro con le date, così sai quando sarà pronto ogni pezzo.
+- **Servono foto professionali?** Aiutano, ma non sono indispensabili per partire: si può cominciare con buone foto fatte col telefono, seguendo qualche mio consiglio, e sostituirle quando arrivano gli scatti definitivi.
+- **Mi aiuti anche con Google Maps e la scheda Google?** Sì: sistemiamo la scheda Google Business con orari, foto e contatti uguali al sito, così chi ti cerca su Google e su Maps trova sempre informazioni giuste.
+- **Posso vendere online anche se ho pochi prodotti?** Sì. Si può partire con pochi articoli, o anche solo con le gift card, e aggiungere il resto con calma dal gestionale, anche dal telefono.
+- **Il sito sarà in regola con privacy e cookie?** Sì: informativa privacy, consensi dove servono e, quando si può, nessun cookie di tracciamento. Come questo sito, che non ne usa.
+- **E se dopo la pubblicazione qualcosa non funziona?** Mi scrivi e me ne occupo io. Insieme al preventivo concordiamo come gestire assistenza e aggiornamenti dopo la pubblicazione, così sai già come funziona.
 - **Lavori solo a Benevento?** Benevento e provincia sono casa mia e preferisco conoscere le persone con cui lavoro. Per il resto ci si sente in videochiamata e per email, ovunque tu sia.
 
 ## Contatti
