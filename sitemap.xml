@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bennoolivaa.github.io/</loc><lastmod>2026-10-13</lastmod></url>
-  <url><loc>https://bennoolivaa.github.io/privacy.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://bennoolivaa.github.io/</loc><lastmod>2026-10-14</lastmod><priority>1.0</priority></url>
+  <url><loc>https://bennoolivaa.github.io/lavori/gioielleria-babuscio/</loc><lastmod>2026-10-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bennoolivaa.github.io/servizi/siti-web-benevento/</loc><lastmod>2026-10-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bennoolivaa.github.io/servizi/negozio-online-gift-card/</loc><lastmod>2026-10-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bennoolivaa.github.io/servizi/gestionale-su-misura/</loc><lastmod>2026-10-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bennoolivaa.github.io/servizi/iscrizioni-online-eventi-corsi/</loc><lastmod>2026-10-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bennoolivaa.github.io/servizi/visibilita-google-ai/</loc><lastmod>2026-10-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bennoolivaa.github.io/servizi/siti-associazioni-pro-loco/</loc><lastmod>2026-10-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://bennoolivaa.github.io/privacy.html</loc><lastmod>2026-10-14</lastmod><priority>0.2</priority></url>
 </urlset>
